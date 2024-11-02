@@ -1,5 +1,11 @@
-<<<<<<< HEAD
+
 # TP_WEB_SERVICES
 =======
 # JAXRS
->>>>>>> 05192d1b40c6a6cf27aa7feb3be4073f13bcb477
+===================
+
+
+
+
+https://github.com/user-attachments/assets/9708638b-86b9-4568-81f8-c257ffb57241
+
